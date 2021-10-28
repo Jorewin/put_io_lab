@@ -1,4 +1,4 @@
-# put_io_lab
+# put_io_lab_storage
 
 Rozwiązania zadań z laboratoriów z przedmiotu "Inżynieria Oprogramowania"
 
